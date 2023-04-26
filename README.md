@@ -8,8 +8,4 @@ You can click the Preview link to take a look at your changes.
 <p align="center">I’m interested in <strong>Data Science</strong> and <strong>Machine Learning</strong></p>
 <br>
 
-<p align="center">
-<a href="https://github.com/mohit-sinsniwal">
-  <img title="My streak stats" alt="Mohit's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-sinsniwal&theme=gruvbox"/>
-</a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sinsniwal&show_icons=true&theme=gotham" alt="sinsniwal" />
